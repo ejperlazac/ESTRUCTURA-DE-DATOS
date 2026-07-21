@@ -1,0 +1,15 @@
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.AssemblyInfoInputs.cache
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.AssemblyInfo.cs
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.csproj.CoreCompileInputs.cache
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.sourcelink.json
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\bin\Debug\net10.0\NavegadorWeb.exe
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\bin\Debug\net10.0\NavegadorWeb.deps.json
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\bin\Debug\net10.0\NavegadorWeb.runtimeconfig.json
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\bin\Debug\net10.0\NavegadorWeb.dll
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\bin\Debug\net10.0\NavegadorWeb.pdb
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.dll
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\obj\Debug\net10.0\refint\NavegadorWeb.dll
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.pdb
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.genruntimeconfig.cache
+C:\Users\hp\EJPC-UEA\Guia2_Estructura_Datos\NavegadorWeb\obj\Debug\net10.0\ref\NavegadorWeb.dll

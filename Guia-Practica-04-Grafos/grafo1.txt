@@ -1,0 +1,6 @@
+Quito,Ambato
+Quito,Ibarra
+Ambato,Riobamba
+Ambato,Guayaquil
+Riobamba,Cuenca
+Cuenca,Loja

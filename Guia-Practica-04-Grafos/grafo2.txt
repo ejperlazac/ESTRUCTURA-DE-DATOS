@@ -1,0 +1,6 @@
+ServidorA,ServidorB
+ServidorA,ServidorC
+ServidorB,ServidorD
+ServidorC,ServidorD
+ServidorD,ServidorE
+ServidorE,ServidorF
